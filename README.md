@@ -33,7 +33,7 @@ https://github.com/Intermesh/docker-groupoffice-development
 4. Clone this repository including submodules:
    
    ```
-   git clone --recurse-submodules https://github.com/intermesh/groupoffice
+   git clone --recurse-submodules https://github.com/CarlosPedroGervasioJunior/groupoffice
    ```
 5. Run ./scripts/build.sh to compile SASS, Install composer packages and build the GOUI typescript modules.
 
